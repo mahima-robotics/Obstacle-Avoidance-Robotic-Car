@@ -196,7 +196,7 @@ Through this project, I learned:
 
 ## Author
 
-Deepak Kumar Anand
+Kumari Mahima
 
 B.Voc Robotics and Automation
 Central University of Rajasthan
